@@ -1,29 +1,16 @@
-# WikepdiaClone
+# WikiPedia Clone
 
-This template should help get you started developing with Vue 3 in Vite.
+## Getting Started
 
-## Recommended IDE Setup
+<h1>Wiki Search with Search Suggestion</h1>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+<hr>
+<h4 style="letter-spacing:3px;color:red;">this are the sign in and signup pages</h4>
+<video src="https://github.com/KiyaTilahun/WikiPediaSearch/public/Screen Recording 2025-01-15 at 11.08.10 AM.mov" width=300 height=600/>
 
-## Customize configuration
+<hr>
 
-See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
 
-```sh
-npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+<hr>
